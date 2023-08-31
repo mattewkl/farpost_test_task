@@ -1,0 +1,172 @@
+
+.no-link-styles
+  text-decoration: none
+  color: inherit
+
+.no-list-styles
+  list-style: none
+
+.no-button-styles
+  border: none
+  background: none
+
+.no-mp-border-box
+  margin: 0
+  padding: 0
+  box-sizing: border-box
+
+.standart-body
+  margin: 0
+  padding: 0
+  position: relative
+  display: flex
+  flex-direction: column
+  background-color: white
+  z-index: 0
+
+.info-aside
+  position: fixed
+  top: 20px
+  right: 20px
+  display: flex
+  flex-direction: column
+  gap: 8px
+
+
+.info-aside__item
+  display: flex
+  flex-direction: row
+  width: 100%
+  gap: 18px
+
+.info-aside__text
+  font-family: Arial
+  width: 71px
+  font-size: 14px
+  font-weight: 400
+  line-height: 16px
+  letter-spacing: 0em
+  text-align: left
+  &_text-grey
+    color: #777777
+
+
+
+
+.info-aside__text_left-point
+  position: relative
+
+.info-aside__text_left-point::before
+  content: ''
+  position: absolute
+  width: 6px
+  height: 6px
+  border-radius: 50%
+  top: 5.5px
+  left: -12px
+
+.info-aside__text_point-green::before
+  background-color: #88BD35
+
+.info-aside__text_point-orange::before
+  background-color: #F7882E
+
+.info-aside__text_point-blue::before
+  background-color: #1764CC
+
+.standart-main
+  display: flex
+  flex-direction: column
+  padding-left: 20px
+  padding-top: 20px
+
+.cases-list
+  display: flex
+  flex-direction: column
+  gap: 20px
+
+.cases-list__item
+  display: grid
+  grid-template-areas: "top top" "text images"
+  grid-template-rows: 44px 1fr
+  grid-template-columns: 792px 1fr
+  width: 1160px
+  box-shadow: 0px 1px 8px 0px #00000040
+  border: 1px solid #DDDDDD
+
+.cases-list__item-top-info
+  display: flex
+  grid-area: top
+  padding-block: 12px
+  padding-inline: 20px
+  align-items: center
+  justify-content: space-between
+  flex-direction: row
+  border-bottom: 1px solid #E4E4E4
+
+.cases-list__item-text
+  display: flex
+  flex-direction: row
+  width: max-content
+  @extend .info-aside__text
+  color: #4A4A4A
+
+.cases-list__item-link
+  @extend .cases-list__item-text
+  color: #1764CC
+
+.cases-list__user-info
+  display: flex
+  flex-direction: row
+  gap: 8px
+  align-items: center
+
+.cases-list__user-icon
+  display: flex
+  width: 17px
+  aspect-ratio: 1/1
+  background-image: url("../includes/imgs/icons/profile-icon.svg")
+
+
+.cases-list__item-main-info
+  display: flex
+  flex-direction: column
+  gap: 16px
+  padding-top: 24px
+  padding-left: 20px
+  grid-area: text
+  padding-bottom: 36px
+
+.cases-list__main-info-title
+  font-family: Arial
+  font-size: 24px
+  font-weight: 400
+  line-height: 28px
+  letter-spacing: 0em
+  text-align: left
+  color: #4A4A4A
+
+.cases-list__main-info-text
+  font-family: Arial
+  max-width: 776px
+  font-size: 15px
+  font-weight: 400
+  line-height: 22px
+  letter-spacing: 0em
+  text-align: left
+  color: #4A4A4A
+
+
+.cases-list__item-figure
+  display: flex
+  flex-direction: column
+  padding-left: 16px
+  border-left: 1px solid #E4E4E4
+  margin-top: 44px
+
+.cases-list__item-img
+  display: flex
+  max-width: 191px
+  object-fit: contain
+
+
