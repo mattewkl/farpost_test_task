@@ -1,1217 +1,1206 @@
 {
   "start-massive": [
     {
-      "id": 1234567,
-      "publishDate": 1234567,
-      "publishDateString": "08:46, сегодня",
-      "ownerId": 1234567,
-      "ownerLogin": "MyOwner",
-      "bulletinSubject": "Заголовок объявления",
-      "bulletinText": "Текст объявления ...",
-      "bulletinImagees": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
-      ]
-    },
-    {
-      "id": 4835127,
-      "publishDate": 1680965437348,
-      "publishDateString": "00:50, 09.04.2023",
-      "ownerId": 6808591,
-      "ownerLogin": "TestOwnerWithID_6808591",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6808591",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6808591",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 6896450,
-      "publishDate": 1677044269822,
-      "publishDateString": "15:37, 22.02.2023",
-      "ownerId": 2284011,
-      "ownerLogin": "TestOwnerWithID_2284011",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2284011",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2284011",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 6218681,
-      "publishDate": 1678688732511,
-      "publishDateString": "16:25, 13.03.2023",
-      "ownerId": 9592517,
-      "ownerLogin": "TestOwnerWithID_9592517",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9592517",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9592517",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 3084400,
-      "publishDate": 1692517493482,
-      "publishDateString": "17:44, 20.08.2023",
-      "ownerId": 3027809,
-      "ownerLogin": "TestOwnerWithID_3027809",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3027809",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3027809",
+      "id": 9404227,
+      "publishDate": 1692850632382,
+      "publishDateString": "14:17, 24.08.2023",
+      "ownerId": 4988217,
+      "ownerLogin": "TestOwnerWithID_4988217",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4988217",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4988217",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 8366504,
-      "publishDate": 1687346775595,
-      "publishDateString": "21:26, 21.06.2023",
-      "ownerId": 8044716,
-      "ownerLogin": "TestOwnerWithID_8044716",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8044716",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8044716",
+      "id": 8855779,
+      "publishDate": 1686091624293,
+      "publishDateString": "08:47, 07.06.2023",
+      "ownerId": 7546851,
+      "ownerLogin": "TestOwnerWithID_7546851",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7546851",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7546851",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 6815531,
-      "publishDate": 1692458534250,
-      "publishDateString": "01:22, 20.08.2023",
-      "ownerId": 2853305,
-      "ownerLogin": "TestOwnerWithID_2853305",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2853305",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2853305",
+      "id": 6444378,
+      "publishDate": 1688366558243,
+      "publishDateString": "16:42, 03.07.2023",
+      "ownerId": 4603345,
+      "ownerLogin": "TestOwnerWithID_4603345",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4603345",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4603345",
       "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
       ]
     },
     {
-      "id": 6896946,
-      "publishDate": 1687932578835,
-      "publishDateString": "16:016, 28.06.2023",
-      "ownerId": 5931595,
-      "ownerLogin": "TestOwnerWithID_5931595",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5931595",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5931595",
+      "id": 3540827,
+      "publishDate": 1686125910974,
+      "publishDateString": "18:18, 07.06.2023",
+      "ownerId": 8547684,
+      "ownerLogin": "TestOwnerWithID_8547684",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8547684",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8547684",
       "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
       ]
     },
     {
-      "id": 8347009,
-      "publishDate": 1686090391189,
-      "publishDateString": "08:26, 07.06.2023",
-      "ownerId": 7610392,
-      "ownerLogin": "TestOwnerWithID_7610392",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7610392",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7610392",
+      "id": 8198134,
+      "publishDate": 1693046546580,
+      "publishDateString": "20:42, 26.08.2023",
+      "ownerId": 3509729,
+      "ownerLogin": "TestOwnerWithID_3509729",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3509729",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3509729",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 1262021,
-      "publishDate": 1689061177410,
-      "publishDateString": "17:39, 11.07.2023",
-      "ownerId": 6644453,
-      "ownerLogin": "TestOwnerWithID_6644453",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6644453",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6644453",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 3494359,
-      "publishDate": 1687177695360,
-      "publishDateString": "22:28, 19.06.2023",
-      "ownerId": 5053796,
-      "ownerLogin": "TestOwnerWithID_5053796",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5053796",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5053796",
+      "id": 5727796,
+      "publishDate": 1675863312065,
+      "publishDateString": "23:35, 08.02.2023",
+      "ownerId": 6635552,
+      "ownerLogin": "TestOwnerWithID_6635552",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6635552",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6635552",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 8752960,
-      "publishDate": 1675906940326,
-      "publishDateString": "11:42, 09.02.2023",
-      "ownerId": 1275087,
-      "ownerLogin": "TestOwnerWithID_1275087",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1275087",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1275087",
+      "id": 2469060,
+      "publishDate": 1687281509342,
+      "publishDateString": "03:18, 21.06.2023",
+      "ownerId": 4616574,
+      "ownerLogin": "TestOwnerWithID_4616574",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4616574",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4616574",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 1144671,
+      "publishDate": 1685850528353,
+      "publishDateString": "13:48, 04.06.2023",
+      "ownerId": 5322436,
+      "ownerLogin": "TestOwnerWithID_5322436",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5322436",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5322436",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 9441956,
+      "publishDate": 1685359784316,
+      "publishDateString": "21:29, 29.05.2023",
+      "ownerId": 1448333,
+      "ownerLogin": "TestOwnerWithID_1448333",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1448333",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1448333",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 7735766,
+      "publishDate": 1690951971381,
+      "publishDateString": "14:52, 02.08.2023",
+      "ownerId": 1048003,
+      "ownerLogin": "TestOwnerWithID_1048003",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1048003",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1048003",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 3306853,
+      "publishDate": 1679703941744,
+      "publishDateString": "10:25, 25.03.2023",
+      "ownerId": 1555709,
+      "ownerLogin": "TestOwnerWithID_1555709",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1555709",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1555709",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 6576047,
+      "publishDate": 1688222664848,
+      "publishDateString": "00:44, 02.07.2023",
+      "ownerId": 3148804,
+      "ownerLogin": "TestOwnerWithID_3148804",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3148804",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3148804",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 2297246,
+      "publishDate": 1675461821090,
+      "publishDateString": "08:08, 04.02.2023",
+      "ownerId": 7665326,
+      "ownerLogin": "TestOwnerWithID_7665326",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7665326",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7665326",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 5792999,
+      "publishDate": 1691122676455,
+      "publishDateString": "14:17, 04.08.2023",
+      "ownerId": 1607713,
+      "ownerLogin": "TestOwnerWithID_1607713",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1607713",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1607713",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 8022854,
+      "publishDate": 1684525184009,
+      "publishDateString": "05:39, 20.05.2023",
+      "ownerId": 2796278,
+      "ownerLogin": "TestOwnerWithID_2796278",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2796278",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2796278",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 8736341,
+      "publishDate": 1689929940065,
+      "publishDateString": "18:59, 21.07.2023",
+      "ownerId": 3031037,
+      "ownerLogin": "TestOwnerWithID_3031037",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3031037",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3031037",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 2155185,
+      "publishDate": 1689453511929,
+      "publishDateString": "06:38, 16.07.2023",
+      "ownerId": 3185640,
+      "ownerLogin": "TestOwnerWithID_3185640",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3185640",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3185640",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 5512924,
+      "publishDate": 1684366978874,
+      "publishDateString": "09:42, 18.05.2023",
+      "ownerId": 8777222,
+      "ownerLogin": "TestOwnerWithID_8777222",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8777222",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8777222",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 8612807,
+      "publishDate": 1682502784867,
+      "publishDateString": "19:53, 26.04.2023",
+      "ownerId": 2842039,
+      "ownerLogin": "TestOwnerWithID_2842039",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2842039",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2842039",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 8545650,
+      "publishDate": 1690541147380,
+      "publishDateString": "20:45, 28.07.2023",
+      "ownerId": 1177871,
+      "ownerLogin": "TestOwnerWithID_1177871",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1177871",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1177871",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 6392644,
+      "publishDate": 1681422525778,
+      "publishDateString": "07:48, 14.04.2023",
+      "ownerId": 8971188,
+      "ownerLogin": "TestOwnerWithID_8971188",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8971188",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8971188",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 9130929,
+      "publishDate": 1677586440006,
+      "publishDateString": "22:14, 28.02.2023",
+      "ownerId": 2900547,
+      "ownerLogin": "TestOwnerWithID_2900547",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2900547",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2900547",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 9600080,
+      "publishDate": 1680349381531,
+      "publishDateString": "21:43, 01.04.2023",
+      "ownerId": 2807970,
+      "ownerLogin": "TestOwnerWithID_2807970",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2807970",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2807970",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 2892230,
-      "publishDate": 1688286558423,
-      "publishDateString": "18:29, 02.07.2023",
-      "ownerId": 4280594,
-      "ownerLogin": "TestOwnerWithID_4280594",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4280594",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4280594",
+      "id": 2956501,
+      "publishDate": 1678650542999,
+      "publishDateString": "05:49, 13.03.2023",
+      "ownerId": 8342343,
+      "ownerLogin": "TestOwnerWithID_8342343",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8342343",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8342343",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 7553047,
+      "publishDate": 1683136662752,
+      "publishDateString": "03:57, 04.05.2023",
+      "ownerId": 8087785,
+      "ownerLogin": "TestOwnerWithID_8087785",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8087785",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8087785",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 4849641,
+      "publishDate": 1686833166030,
+      "publishDateString": "22:46, 15.06.2023",
+      "ownerId": 8729342,
+      "ownerLogin": "TestOwnerWithID_8729342",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8729342",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8729342",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 8506016,
+      "publishDate": 1686229411505,
+      "publishDateString": "23:023, 08.06.2023",
+      "ownerId": 7077375,
+      "ownerLogin": "TestOwnerWithID_7077375",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7077375",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7077375",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 5451058,
+      "publishDate": 1678498589513,
+      "publishDateString": "11:36, 11.03.2023",
+      "ownerId": 5756783,
+      "ownerLogin": "TestOwnerWithID_5756783",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5756783",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5756783",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 8305747,
+      "publishDate": 1685772964481,
+      "publishDateString": "16:16, 03.06.2023",
+      "ownerId": 2010774,
+      "ownerLogin": "TestOwnerWithID_2010774",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2010774",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2010774",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 1874481,
+      "publishDate": 1678763983273,
+      "publishDateString": "13:19, 14.03.2023",
+      "ownerId": 2297750,
+      "ownerLogin": "TestOwnerWithID_2297750",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2297750",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2297750",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 7911352,
+      "publishDate": 1679751869498,
+      "publishDateString": "23:44, 25.03.2023",
+      "ownerId": 2460989,
+      "ownerLogin": "TestOwnerWithID_2460989",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2460989",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2460989",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 4328668,
+      "publishDate": 1690537938306,
+      "publishDateString": "19:52, 28.07.2023",
+      "ownerId": 1325154,
+      "ownerLogin": "TestOwnerWithID_1325154",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1325154",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1325154",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 5071219,
+      "publishDate": 1680821298949,
+      "publishDateString": "08:48, 07.04.2023",
+      "ownerId": 5226956,
+      "ownerLogin": "TestOwnerWithID_5226956",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5226956",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5226956",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 1157116,
+      "publishDate": 1691665189000,
+      "publishDateString": "20:59, 10.08.2023",
+      "ownerId": 5288178,
+      "ownerLogin": "TestOwnerWithID_5288178",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5288178",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5288178",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 6847154,
+      "publishDate": 1678572561381,
+      "publishDateString": "08:08, 12.03.2023",
+      "ownerId": 2212196,
+      "ownerLogin": "TestOwnerWithID_2212196",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2212196",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2212196",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 9908989,
+      "publishDate": 1688399858297,
+      "publishDateString": "01:57, 04.07.2023",
+      "ownerId": 3833982,
+      "ownerLogin": "TestOwnerWithID_3833982",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3833982",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3833982",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 8900215,
+      "publishDate": 1688468398997,
+      "publishDateString": "20:59, 04.07.2023",
+      "ownerId": 1564796,
+      "ownerLogin": "TestOwnerWithID_1564796",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1564796",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1564796",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 9622725,
-      "publishDate": 1679457792788,
-      "publishDateString": "14:014, 22.03.2023",
-      "ownerId": 3630038,
-      "ownerLogin": "TestOwnerWithID_3630038",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3630038",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3630038",
+      "id": 5271368,
+      "publishDate": 1690172921232,
+      "publishDateString": "14:28, 24.07.2023",
+      "ownerId": 3048730,
+      "ownerLogin": "TestOwnerWithID_3048730",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3048730",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3048730",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 9183867,
-      "publishDate": 1681357229020,
-      "publishDateString": "13:40, 13.04.2023",
-      "ownerId": 7693682,
-      "ownerLogin": "TestOwnerWithID_7693682",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7693682",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7693682",
-      "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
-      ]
-    },
-    {
-      "id": 5333637,
-      "publishDate": 1690977114101,
-      "publishDateString": "21:51, 02.08.2023",
-      "ownerId": 3399372,
-      "ownerLogin": "TestOwnerWithID_3399372",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3399372",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3399372",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 5818335,
-      "publishDate": 1690262524550,
-      "publishDateString": "15:22, 25.07.2023",
-      "ownerId": 3915989,
-      "ownerLogin": "TestOwnerWithID_3915989",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3915989",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3915989",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 5513701,
-      "publishDate": 1692636404376,
-      "publishDateString": "02:46, 22.08.2023",
-      "ownerId": 2685372,
-      "ownerLogin": "TestOwnerWithID_2685372",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2685372",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2685372",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 8735917,
-      "publishDate": 1690936225009,
-      "publishDateString": "10:30, 02.08.2023",
-      "ownerId": 6717979,
-      "ownerLogin": "TestOwnerWithID_6717979",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6717979",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6717979",
+      "id": 3054269,
+      "publishDate": 1683184834677,
+      "publishDateString": "17:20, 04.05.2023",
+      "ownerId": 4132901,
+      "ownerLogin": "TestOwnerWithID_4132901",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4132901",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4132901",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 2321545,
-      "publishDate": 1689594339461,
-      "publishDateString": "21:45, 17.07.2023",
-      "ownerId": 4720011,
-      "ownerLogin": "TestOwnerWithID_4720011",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4720011",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4720011",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 9878544,
-      "publishDate": 1686036853515,
-      "publishDateString": "17:34, 06.06.2023",
-      "ownerId": 1794429,
-      "ownerLogin": "TestOwnerWithID_1794429",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1794429",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1794429",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 2604418,
-      "publishDate": 1683957776678,
-      "publishDateString": "16:016, 13.05.2023",
-      "ownerId": 9012861,
-      "ownerLogin": "TestOwnerWithID_9012861",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9012861",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9012861",
+      "id": 9932610,
+      "publishDate": 1682904865795,
+      "publishDateString": "11:34, 01.05.2023",
+      "ownerId": 9856794,
+      "ownerLogin": "TestOwnerWithID_9856794",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9856794",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9856794",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 1585101,
-      "publishDate": 1676071266991,
-      "publishDateString": "09:21, 11.02.2023",
-      "ownerId": 5994670,
-      "ownerLogin": "TestOwnerWithID_5994670",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5994670",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5994670",
+      "id": 3907036,
+      "publishDate": 1691020878377,
+      "publishDateString": "10:010, 03.08.2023",
+      "ownerId": 5976404,
+      "ownerLogin": "TestOwnerWithID_5976404",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5976404",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5976404",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 4886556,
-      "publishDate": 1691909469050,
-      "publishDateString": "16:51, 13.08.2023",
-      "ownerId": 4097798,
-      "ownerLogin": "TestOwnerWithID_4097798",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4097798",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4097798",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 2473723,
-      "publishDate": 1688191223820,
-      "publishDateString": "16:016, 01.07.2023",
-      "ownerId": 8329725,
-      "ownerLogin": "TestOwnerWithID_8329725",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8329725",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8329725",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 7946156,
-      "publishDate": 1682311726422,
-      "publishDateString": "14:48, 24.04.2023",
-      "ownerId": 2204591,
-      "ownerLogin": "TestOwnerWithID_2204591",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2204591",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2204591",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 2367819,
-      "publishDate": 1679697169461,
-      "publishDateString": "08:32, 25.03.2023",
-      "ownerId": 7447395,
-      "ownerLogin": "TestOwnerWithID_7447395",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7447395",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7447395",
+      "id": 5013815,
+      "publishDate": 1676591996705,
+      "publishDateString": "09:59, 17.02.2023",
+      "ownerId": 2957651,
+      "ownerLogin": "TestOwnerWithID_2957651",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2957651",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2957651",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 3163371,
-      "publishDate": 1690678137714,
-      "publishDateString": "10:48, 30.07.2023",
-      "ownerId": 5811389,
-      "ownerLogin": "TestOwnerWithID_5811389",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5811389",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5811389",
+      "id": 4764350,
+      "publishDate": 1691697173307,
+      "publishDateString": "05:52, 11.08.2023",
+      "ownerId": 1777413,
+      "ownerLogin": "TestOwnerWithID_1777413",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1777413",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1777413",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
       ]
     },
     {
-      "id": 1067209,
-      "publishDate": 1676729376436,
-      "publishDateString": "00:00, 19.02.2023",
-      "ownerId": 5574829,
-      "ownerLogin": "TestOwnerWithID_5574829",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5574829",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5574829",
+      "id": 2051747,
+      "publishDate": 1676267144771,
+      "publishDateString": "15:45, 13.02.2023",
+      "ownerId": 5934562,
+      "ownerLogin": "TestOwnerWithID_5934562",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5934562",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5934562",
       "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 9683881,
-      "publishDate": 1689904320253,
-      "publishDateString": "11:52, 21.07.2023",
-      "ownerId": 1923938,
-      "ownerLogin": "TestOwnerWithID_1923938",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1923938",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1923938",
+      "id": 9715195,
+      "publishDate": 1683858946643,
+      "publishDateString": "12:35, 12.05.2023",
+      "ownerId": 6305208,
+      "ownerLogin": "TestOwnerWithID_6305208",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6305208",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6305208",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 6837381,
-      "publishDate": 1678911341533,
-      "publishDateString": "06:15, 16.03.2023",
-      "ownerId": 7670701,
-      "ownerLogin": "TestOwnerWithID_7670701",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7670701",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7670701",
+      "id": 8673201,
+      "publishDate": 1686960122227,
+      "publishDateString": "10:010, 17.06.2023",
+      "ownerId": 2351288,
+      "ownerLogin": "TestOwnerWithID_2351288",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2351288",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2351288",
       "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
       ]
     },
     {
-      "id": 5692271,
-      "publishDate": 1685471622660,
-      "publishDateString": "04:33, 31.05.2023",
-      "ownerId": 9480624,
-      "ownerLogin": "TestOwnerWithID_9480624",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9480624",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9480624",
+      "id": 8384643,
+      "publishDate": 1685575384588,
+      "publishDateString": "09:23, 01.06.2023",
+      "ownerId": 1185408,
+      "ownerLogin": "TestOwnerWithID_1185408",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1185408",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1185408",
       "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
       ]
     },
     {
-      "id": 9583973,
-      "publishDate": 1684708839388,
-      "publishDateString": "08:40, 22.05.2023",
-      "ownerId": 4858152,
-      "ownerLogin": "TestOwnerWithID_4858152",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4858152",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4858152",
+      "id": 4554333,
+      "publishDate": 1676207698037,
+      "publishDateString": "23:14, 12.02.2023",
+      "ownerId": 6661663,
+      "ownerLogin": "TestOwnerWithID_6661663",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6661663",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6661663",
       "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 9495040,
-      "publishDate": 1681020562732,
-      "publishDateString": "16:016, 09.04.2023",
-      "ownerId": 4401064,
-      "ownerLogin": "TestOwnerWithID_4401064",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4401064",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4401064",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 7741521,
-      "publishDate": 1681124875190,
-      "publishDateString": "21:021, 10.04.2023",
-      "ownerId": 9585165,
-      "ownerLogin": "TestOwnerWithID_9585165",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9585165",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9585165",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 4038411,
-      "publishDate": 1682078901261,
-      "publishDateString": "22:022, 21.04.2023",
-      "ownerId": 6357271,
-      "ownerLogin": "TestOwnerWithID_6357271",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6357271",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6357271",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 2109490,
-      "publishDate": 1677217458008,
-      "publishDateString": "15:44, 24.02.2023",
-      "ownerId": 2712155,
-      "ownerLogin": "TestOwnerWithID_2712155",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2712155",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2712155",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 8169741,
-      "publishDate": 1689955372165,
-      "publishDateString": "02:02, 22.07.2023",
-      "ownerId": 3243857,
-      "ownerLogin": "TestOwnerWithID_3243857",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3243857",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3243857",
+      "id": 4970031,
+      "publishDate": 1688897043887,
+      "publishDateString": "20:020, 09.07.2023",
+      "ownerId": 6387992,
+      "ownerLogin": "TestOwnerWithID_6387992",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6387992",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6387992",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 3620996,
-      "publishDate": 1687315240123,
-      "publishDateString": "12:40, 21.06.2023",
-      "ownerId": 6642922,
-      "ownerLogin": "TestOwnerWithID_6642922",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6642922",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6642922",
+      "id": 8811091,
+      "publishDate": 1688358981109,
+      "publishDateString": "14:36, 03.07.2023",
+      "ownerId": 9892541,
+      "ownerLogin": "TestOwnerWithID_9892541",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9892541",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9892541",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 1495137,
-      "publishDate": 1678887140433,
-      "publishDateString": "23:32, 15.03.2023",
-      "ownerId": 6449985,
-      "ownerLogin": "TestOwnerWithID_6449985",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6449985",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6449985",
+      "id": 3141595,
+      "publishDate": 1680241689448,
+      "publishDateString": "15:48, 31.03.2023",
+      "ownerId": 9498814,
+      "ownerLogin": "TestOwnerWithID_9498814",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9498814",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9498814",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 9390669,
-      "publishDate": 1686893553682,
-      "publishDateString": "15:32, 16.06.2023",
-      "ownerId": 3498284,
-      "ownerLogin": "TestOwnerWithID_3498284",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3498284",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3498284",
+      "id": 5165000,
+      "publishDate": 1680285921892,
+      "publishDateString": "04:04, 01.04.2023",
+      "ownerId": 5535770,
+      "ownerLogin": "TestOwnerWithID_5535770",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5535770",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5535770",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 9929987,
-      "publishDate": 1680642294590,
-      "publishDateString": "07:07, 05.04.2023",
-      "ownerId": 1231152,
-      "ownerLogin": "TestOwnerWithID_1231152",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1231152",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1231152",
+      "id": 6018480,
+      "publishDate": 1686126572879,
+      "publishDateString": "18:29, 07.06.2023",
+      "ownerId": 9203220,
+      "ownerLogin": "TestOwnerWithID_9203220",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9203220",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9203220",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 4137370,
-      "publishDate": 1685139240265,
-      "publishDateString": "08:14, 27.05.2023",
-      "ownerId": 4454077,
-      "ownerLogin": "TestOwnerWithID_4454077",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4454077",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4454077",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 6173281,
-      "publishDate": 1693176277302,
-      "publishDateString": "08:44, 28.08.2023",
-      "ownerId": 9076248,
-      "ownerLogin": "TestOwnerWithID_9076248",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9076248",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9076248",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 6419055,
-      "publishDate": 1686837806358,
-      "publishDateString": "00:00, 16.06.2023",
-      "ownerId": 2219955,
-      "ownerLogin": "TestOwnerWithID_2219955",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2219955",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2219955",
+      "id": 2260227,
+      "publishDate": 1685881236082,
+      "publishDateString": "22:20, 04.06.2023",
+      "ownerId": 5826027,
+      "ownerLogin": "TestOwnerWithID_5826027",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5826027",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5826027",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 7044741,
-      "publishDate": 1681035222773,
-      "publishDateString": "20:13, 09.04.2023",
-      "ownerId": 7322259,
-      "ownerLogin": "TestOwnerWithID_7322259",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7322259",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7322259",
+      "id": 9065609,
+      "publishDate": 1675307937056,
+      "publishDateString": "13:18, 02.02.2023",
+      "ownerId": 3600964,
+      "ownerLogin": "TestOwnerWithID_3600964",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3600964",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3600964",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 6677692,
+      "publishDate": 1677739409685,
+      "publishDateString": "16:43, 02.03.2023",
+      "ownerId": 6657161,
+      "ownerLogin": "TestOwnerWithID_6657161",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6657161",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6657161",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 6894037,
+      "publishDate": 1676761598697,
+      "publishDateString": "09:09, 19.02.2023",
+      "ownerId": 6985937,
+      "ownerLogin": "TestOwnerWithID_6985937",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6985937",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6985937",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 9309208,
+      "publishDate": 1692054958986,
+      "publishDateString": "09:15, 15.08.2023",
+      "ownerId": 8741652,
+      "ownerLogin": "TestOwnerWithID_8741652",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8741652",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8741652",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 4023955,
+      "publishDate": 1689100893692,
+      "publishDateString": "04:41, 12.07.2023",
+      "ownerId": 6360293,
+      "ownerLogin": "TestOwnerWithID_6360293",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6360293",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6360293",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 3361021,
+      "publishDate": 1683249819285,
+      "publishDateString": "11:23, 05.05.2023",
+      "ownerId": 9680768,
+      "ownerLogin": "TestOwnerWithID_9680768",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9680768",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9680768",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 2672446,
-      "publishDate": 1679197513597,
-      "publishDateString": "13:45, 19.03.2023",
-      "ownerId": 3293896,
-      "ownerLogin": "TestOwnerWithID_3293896",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3293896",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3293896",
+      "id": 9479038,
+      "publishDate": 1690822444407,
+      "publishDateString": "02:54, 01.08.2023",
+      "ownerId": 9270578,
+      "ownerLogin": "TestOwnerWithID_9270578",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9270578",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9270578",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 1403207,
-      "publishDate": 1692419275099,
-      "publishDateString": "14:27, 19.08.2023",
-      "ownerId": 2745169,
-      "ownerLogin": "TestOwnerWithID_2745169",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2745169",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2745169",
+      "id": 7623059,
+      "publishDate": 1680570798784,
+      "publishDateString": "11:13, 04.04.2023",
+      "ownerId": 7650074,
+      "ownerLogin": "TestOwnerWithID_7650074",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7650074",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7650074",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
       ]
     },
     {
-      "id": 5999214,
-      "publishDate": 1682526846992,
-      "publishDateString": "02:34, 27.04.2023",
-      "ownerId": 1568943,
-      "ownerLogin": "TestOwnerWithID_1568943",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1568943",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1568943",
+      "id": 2237061,
+      "publishDate": 1680444945989,
+      "publishDateString": "00:15, 03.04.2023",
+      "ownerId": 5502081,
+      "ownerLogin": "TestOwnerWithID_5502081",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5502081",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5502081",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 8791959,
-      "publishDate": 1677438557126,
-      "publishDateString": "05:05, 27.02.2023",
-      "ownerId": 2725994,
-      "ownerLogin": "TestOwnerWithID_2725994",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2725994",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2725994",
+      "id": 7992093,
+      "publishDate": 1678290901797,
+      "publishDateString": "01:55, 09.03.2023",
+      "ownerId": 8381026,
+      "ownerLogin": "TestOwnerWithID_8381026",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8381026",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8381026",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 5723299,
-      "publishDate": 1677342484113,
-      "publishDateString": "02:28, 26.02.2023",
-      "ownerId": 8721251,
-      "ownerLogin": "TestOwnerWithID_8721251",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8721251",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8721251",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 8248050,
-      "publishDate": 1675605455521,
-      "publishDateString": "23:57, 05.02.2023",
-      "ownerId": 3135634,
-      "ownerLogin": "TestOwnerWithID_3135634",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3135634",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3135634",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 4858717,
-      "publishDate": 1687296389513,
-      "publishDateString": "07:26, 21.06.2023",
-      "ownerId": 7491393,
-      "ownerLogin": "TestOwnerWithID_7491393",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7491393",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7491393",
+      "id": 3218725,
+      "publishDate": 1684664931521,
+      "publishDateString": "20:28, 21.05.2023",
+      "ownerId": 4442101,
+      "ownerLogin": "TestOwnerWithID_4442101",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4442101",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4442101",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 3191066,
-      "publishDate": 1691717165270,
-      "publishDateString": "11:26, 11.08.2023",
-      "ownerId": 2533339,
-      "ownerLogin": "TestOwnerWithID_2533339",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2533339",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2533339",
+      "id": 8908056,
+      "publishDate": 1690988192507,
+      "publishDateString": "00:56, 03.08.2023",
+      "ownerId": 9701949,
+      "ownerLogin": "TestOwnerWithID_9701949",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9701949",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9701949",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 4320363,
-      "publishDate": 1675461480181,
-      "publishDateString": "07:58, 04.02.2023",
-      "ownerId": 2056692,
-      "ownerLogin": "TestOwnerWithID_2056692",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2056692",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2056692",
+      "id": 6518001,
+      "publishDate": 1682507693267,
+      "publishDateString": "21:14, 26.04.2023",
+      "ownerId": 7927934,
+      "ownerLogin": "TestOwnerWithID_7927934",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7927934",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7927934",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 6492383,
+      "publishDate": 1685071796230,
+      "publishDateString": "13:29, 26.05.2023",
+      "ownerId": 6801666,
+      "ownerLogin": "TestOwnerWithID_6801666",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6801666",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6801666",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 3843187,
+      "publishDate": 1693133736411,
+      "publishDateString": "20:55, 27.08.2023",
+      "ownerId": 5805830,
+      "ownerLogin": "TestOwnerWithID_5805830",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5805830",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5805830",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 6420911,
+      "publishDate": 1678005201959,
+      "publishDateString": "18:33, 05.03.2023",
+      "ownerId": 8297152,
+      "ownerLogin": "TestOwnerWithID_8297152",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8297152",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8297152",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 8487094,
-      "publishDate": 1675629179695,
-      "publishDateString": "06:32, 06.02.2023",
-      "ownerId": 7919870,
-      "ownerLogin": "TestOwnerWithID_7919870",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7919870",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7919870",
+      "id": 4465150,
+      "publishDate": 1692683392148,
+      "publishDateString": "15:49, 22.08.2023",
+      "ownerId": 1259192,
+      "ownerLogin": "TestOwnerWithID_1259192",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1259192",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1259192",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 6537529,
-      "publishDate": 1687065968647,
-      "publishDateString": "15:26, 18.06.2023",
-      "ownerId": 9110315,
-      "ownerLogin": "TestOwnerWithID_9110315",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9110315",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9110315",
+      "id": 4444583,
+      "publishDate": 1682177539945,
+      "publishDateString": "01:32, 23.04.2023",
+      "ownerId": 9267182,
+      "ownerLogin": "TestOwnerWithID_9267182",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9267182",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9267182",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 3819509,
+      "publishDate": 1683973448643,
+      "publishDateString": "20:24, 13.05.2023",
+      "ownerId": 6913315,
+      "ownerLogin": "TestOwnerWithID_6913315",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6913315",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6913315",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 2075558,
+      "publishDate": 1691893547607,
+      "publishDateString": "12:25, 13.08.2023",
+      "ownerId": 2013370,
+      "ownerLogin": "TestOwnerWithID_2013370",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2013370",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2013370",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 2865044,
-      "publishDate": 1678581665990,
-      "publishDateString": "10:41, 12.03.2023",
-      "ownerId": 4592687,
-      "ownerLogin": "TestOwnerWithID_4592687",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4592687",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4592687",
+      "id": 2850999,
+      "publishDate": 1687490838692,
+      "publishDateString": "13:27, 23.06.2023",
+      "ownerId": 8243596,
+      "ownerLogin": "TestOwnerWithID_8243596",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8243596",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8243596",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
       ]
     },
     {
-      "id": 8598646,
-      "publishDate": 1686263344360,
-      "publishDateString": "08:29, 09.06.2023",
-      "ownerId": 4570922,
-      "ownerLogin": "TestOwnerWithID_4570922",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4570922",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4570922",
+      "id": 2896461,
+      "publishDate": 1677254776630,
+      "publishDateString": "02:02, 25.02.2023",
+      "ownerId": 4522884,
+      "ownerLogin": "TestOwnerWithID_4522884",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4522884",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4522884",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 6005651,
+      "publishDate": 1678521882312,
+      "publishDateString": "18:018, 11.03.2023",
+      "ownerId": 2173091,
+      "ownerLogin": "TestOwnerWithID_2173091",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2173091",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2173091",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 8252439,
+      "publishDate": 1693413655998,
+      "publishDateString": "02:40, 31.08.2023",
+      "ownerId": 3845262,
+      "ownerLogin": "TestOwnerWithID_3845262",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3845262",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3845262",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 5148594,
+      "publishDate": 1684556905994,
+      "publishDateString": "14:28, 20.05.2023",
+      "ownerId": 8326671,
+      "ownerLogin": "TestOwnerWithID_8326671",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8326671",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8326671",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 4457990,
+      "publishDate": 1680447057959,
+      "publishDateString": "00:50, 03.04.2023",
+      "ownerId": 4648076,
+      "ownerLogin": "TestOwnerWithID_4648076",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4648076",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4648076",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 9836700,
-      "publishDate": 1692872523661,
-      "publishDateString": "20:22, 24.08.2023",
-      "ownerId": 6728289,
-      "ownerLogin": "TestOwnerWithID_6728289",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6728289",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6728289",
+      "id": 9222484,
+      "publishDate": 1688416945518,
+      "publishDateString": "06:42, 04.07.2023",
+      "ownerId": 3453652,
+      "ownerLogin": "TestOwnerWithID_3453652",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3453652",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3453652",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 7408328,
-      "publishDate": 1679594899331,
-      "publishDateString": "04:04, 24.03.2023",
-      "ownerId": 3867352,
-      "ownerLogin": "TestOwnerWithID_3867352",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3867352",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3867352",
+      "id": 9022988,
+      "publishDate": 1682648927622,
+      "publishDateString": "12:28, 28.04.2023",
+      "ownerId": 2610890,
+      "ownerLogin": "TestOwnerWithID_2610890",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2610890",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2610890",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 3563142,
+      "publishDate": 1681463266180,
+      "publishDateString": "19:019, 14.04.2023",
+      "ownerId": 1636483,
+      "ownerLogin": "TestOwnerWithID_1636483",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1636483",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1636483",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 4028611,
+      "publishDate": 1676745433611,
+      "publishDateString": "04:37, 19.02.2023",
+      "ownerId": 2186359,
+      "ownerLogin": "TestOwnerWithID_2186359",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2186359",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2186359",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 8617805,
+      "publishDate": 1686323557633,
+      "publishDateString": "01:12, 10.06.2023",
+      "ownerId": 6692986,
+      "ownerLogin": "TestOwnerWithID_6692986",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6692986",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6692986",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 7967115,
+      "publishDate": 1686282278737,
+      "publishDateString": "13:44, 09.06.2023",
+      "ownerId": 3686487,
+      "ownerLogin": "TestOwnerWithID_3686487",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3686487",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3686487",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 2814022,
+      "publishDate": 1687760994181,
+      "publishDateString": "16:29, 26.06.2023",
+      "ownerId": 2426803,
+      "ownerLogin": "TestOwnerWithID_2426803",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2426803",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2426803",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 6006234,
+      "publishDate": 1679176531381,
+      "publishDateString": "07:55, 19.03.2023",
+      "ownerId": 8787675,
+      "ownerLogin": "TestOwnerWithID_8787675",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8787675",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8787675",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 5934867,
+      "publishDate": 1682579829978,
+      "publishDateString": "17:17, 27.04.2023",
+      "ownerId": 3237150,
+      "ownerLogin": "TestOwnerWithID_3237150",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3237150",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3237150",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
+      ]
+    },
+    {
+      "id": 3875015,
+      "publishDate": 1682016833279,
+      "publishDateString": "04:53, 21.04.2023",
+      "ownerId": 4016430,
+      "ownerLogin": "TestOwnerWithID_4016430",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4016430",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4016430",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 1165254,
-      "publishDate": 1688488258844,
-      "publishDateString": "02:30, 05.07.2023",
-      "ownerId": 7647112,
-      "ownerLogin": "TestOwnerWithID_7647112",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7647112",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7647112",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 8029791,
-      "publishDate": 1675619723332,
-      "publishDateString": "03:55, 06.02.2023",
-      "ownerId": 1019423,
-      "ownerLogin": "TestOwnerWithID_1019423",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1019423",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1019423",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 7615270,
-      "publishDate": 1679083138459,
-      "publishDateString": "05:58, 18.03.2023",
-      "ownerId": 7411388,
-      "ownerLogin": "TestOwnerWithID_7411388",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7411388",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7411388",
+      "id": 9337126,
+      "publishDate": 1678301260649,
+      "publishDateString": "04:47, 09.03.2023",
+      "ownerId": 9774354,
+      "ownerLogin": "TestOwnerWithID_9774354",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9774354",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9774354",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 4852202,
-      "publishDate": 1684152169717,
-      "publishDateString": "22:022, 15.05.2023",
-      "ownerId": 5183868,
-      "ownerLogin": "TestOwnerWithID_5183868",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5183868",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5183868",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 8923000,
-      "publishDate": 1690425417599,
-      "publishDateString": "12:36, 27.07.2023",
-      "ownerId": 7166062,
-      "ownerLogin": "TestOwnerWithID_7166062",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7166062",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7166062",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 1731249,
-      "publishDate": 1682467865071,
-      "publishDateString": "10:11, 26.04.2023",
-      "ownerId": 8817210,
-      "ownerLogin": "TestOwnerWithID_8817210",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8817210",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8817210",
+      "id": 9108422,
+      "publishDate": 1684629665494,
+      "publishDateString": "10:41, 21.05.2023",
+      "ownerId": 8200036,
+      "ownerLogin": "TestOwnerWithID_8200036",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8200036",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8200036",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 3875374,
-      "publishDate": 1687550918457,
-      "publishDateString": "06:06, 24.06.2023",
-      "ownerId": 7048921,
-      "ownerLogin": "TestOwnerWithID_7048921",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7048921",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7048921",
+      "id": 3706672,
+      "publishDate": 1685977181425,
+      "publishDateString": "00:59, 06.06.2023",
+      "ownerId": 1516247,
+      "ownerLogin": "TestOwnerWithID_1516247",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1516247",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1516247",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 8526476,
-      "publishDate": 1684223434478,
-      "publishDateString": "17:50, 16.05.2023",
-      "ownerId": 9685934,
-      "ownerLogin": "TestOwnerWithID_9685934",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9685934",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9685934",
+      "id": 5789964,
+      "publishDate": 1692937229663,
+      "publishDateString": "14:20, 25.08.2023",
+      "ownerId": 3670225,
+      "ownerLogin": "TestOwnerWithID_3670225",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3670225",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3670225",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
       ]
     },
     {
-      "id": 5942174,
-      "publishDate": 1691274400988,
-      "publishDateString": "08:26, 06.08.2023",
-      "ownerId": 7147310,
-      "ownerLogin": "TestOwnerWithID_7147310",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7147310",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7147310",
+      "id": 5365237,
+      "publishDate": 1685774666897,
+      "publishDateString": "16:44, 03.06.2023",
+      "ownerId": 6042728,
+      "ownerLogin": "TestOwnerWithID_6042728",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6042728",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6042728",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 9623095,
-      "publishDate": 1687260709124,
-      "publishDateString": "21:31, 20.06.2023",
-      "ownerId": 4671517,
-      "ownerLogin": "TestOwnerWithID_4671517",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4671517",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4671517",
+      "id": 4561560,
+      "publishDate": 1693350278124,
+      "publishDateString": "09:09, 30.08.2023",
+      "ownerId": 5608709,
+      "ownerLogin": "TestOwnerWithID_5608709",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5608709",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5608709",
+      "bulletinImages": [
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
+      ]
+    },
+    {
+      "id": 5146247,
+      "publishDate": 1688841263293,
+      "publishDateString": "04:34, 09.07.2023",
+      "ownerId": 6091653,
+      "ownerLogin": "TestOwnerWithID_6091653",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6091653",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6091653",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
       ]
     },
     {
-      "id": 3320356,
-      "publishDate": 1678217461112,
-      "publishDateString": "05:31, 08.03.2023",
-      "ownerId": 6519601,
-      "ownerLogin": "TestOwnerWithID_6519601",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6519601",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6519601",
+      "id": 7856784,
+      "publishDate": 1688238241716,
+      "publishDateString": "05:05, 02.07.2023",
+      "ownerId": 1434875,
+      "ownerLogin": "TestOwnerWithID_1434875",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1434875",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1434875",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
+        "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"
       ]
     },
     {
-      "id": 9377380,
-      "publishDate": 1682662426143,
-      "publishDateString": "16:13, 28.04.2023",
-      "ownerId": 7023441,
-      "ownerLogin": "TestOwnerWithID_7023441",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7023441",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7023441",
+      "id": 4632641,
+      "publishDate": 1678155959141,
+      "publishDateString": "12:25, 07.03.2023",
+      "ownerId": 5482546,
+      "ownerLogin": "TestOwnerWithID_5482546",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5482546",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5482546",
       "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
+        "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg"
       ]
     },
     {
-      "id": 4205378,
-      "publishDate": 1676434053973,
-      "publishDateString": "14:014, 15.02.2023",
-      "ownerId": 3217671,
-      "ownerLogin": "TestOwnerWithID_3217671",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3217671",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3217671",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 7410077,
-      "publishDate": 1678775218966,
-      "publishDateString": "16:26, 14.03.2023",
-      "ownerId": 4900898,
-      "ownerLogin": "TestOwnerWithID_4900898",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4900898",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4900898",
+      "id": 3617996,
+      "publishDate": 1683053942557,
+      "publishDateString": "04:59, 03.05.2023",
+      "ownerId": 8278663,
+      "ownerLogin": "TestOwnerWithID_8278663",
+      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8278663",
+      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8278663",
       "bulletinImages": [
         "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
-      ]
-    },
-    {
-      "id": 7530705,
-      "publishDate": 1688293925972,
-      "publishDateString": "20:32, 02.07.2023",
-      "ownerId": 1353982,
-      "ownerLogin": "TestOwnerWithID_1353982",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1353982",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1353982",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 3520772,
-      "publishDate": 1680798696071,
-      "publishDateString": "02:31, 07.04.2023",
-      "ownerId": 4146485,
-      "ownerLogin": "TestOwnerWithID_4146485",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4146485",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4146485",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 2523856,
-      "publishDate": 1689612283757,
-      "publishDateString": "02:44, 18.07.2023",
-      "ownerId": 1190040,
-      "ownerLogin": "TestOwnerWithID_1190040",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1190040",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1190040",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 9464199,
-      "publishDate": 1682113086518,
-      "publishDateString": "07:38, 22.04.2023",
-      "ownerId": 6142768,
-      "ownerLogin": "TestOwnerWithID_6142768",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6142768",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6142768",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 9270426,
-      "publishDate": 1689974362381,
-      "publishDateString": "07:19, 22.07.2023",
-      "ownerId": 7499143,
-      "ownerLogin": "TestOwnerWithID_7499143",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7499143",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7499143",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 2921666,
-      "publishDate": 1677952115333,
-      "publishDateString": "03:48, 05.03.2023",
-      "ownerId": 3164467,
-      "ownerLogin": "TestOwnerWithID_3164467",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3164467",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3164467",
-      "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
-      ]
-    },
-    {
-      "id": 4311261,
-      "publishDate": 1691134467265,
-      "publishDateString": "17:34, 04.08.2023",
-      "ownerId": 2651265,
-      "ownerLogin": "TestOwnerWithID_2651265",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2651265",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_2651265",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 5214201,
-      "publishDate": 1682294790299,
-      "publishDateString": "10:010, 24.04.2023",
-      "ownerId": 5739702,
-      "ownerLogin": "TestOwnerWithID_5739702",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5739702",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5739702",
-      "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
-      ]
-    },
-    {
-      "id": 8953041,
-      "publishDate": 1683531601983,
-      "publishDateString": "17:40, 08.05.2023",
-      "ownerId": 3390705,
-      "ownerLogin": "TestOwnerWithID_3390705",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3390705",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3390705",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 7979916,
-      "publishDate": 1690317978113,
-      "publishDateString": "06:46, 26.07.2023",
-      "ownerId": 8850659,
-      "ownerLogin": "TestOwnerWithID_8850659",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8850659",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8850659",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 6920802,
-      "publishDate": 1690287011648,
-      "publishDateString": "22:10, 25.07.2023",
-      "ownerId": 1367009,
-      "ownerLogin": "TestOwnerWithID_1367009",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1367009",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_1367009",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 8101906,
-      "publishDate": 1684885793688,
-      "publishDateString": "09:49, 24.05.2023",
-      "ownerId": 5048678,
-      "ownerLogin": "TestOwnerWithID_5048678",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5048678",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5048678",
-      "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
-      ]
-    },
-    {
-      "id": 8984106,
-      "publishDate": 1683494178884,
-      "publishDateString": "07:16, 08.05.2023",
-      "ownerId": 6940356,
-      "ownerLogin": "TestOwnerWithID_6940356",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6940356",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6940356",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 2133788,
-      "publishDate": 1677667806678,
-      "publishDateString": "20:50, 01.03.2023",
-      "ownerId": 7494196,
-      "ownerLogin": "TestOwnerWithID_7494196",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7494196",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7494196",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 4320497,
-      "publishDate": 1691910101327,
-      "publishDateString": "17:017, 13.08.2023",
-      "ownerId": 8322537,
-      "ownerLogin": "TestOwnerWithID_8322537",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8322537",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_8322537",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 5773304,
-      "publishDate": 1676457827071,
-      "publishDateString": "20:43, 15.02.2023",
-      "ownerId": 3515638,
-      "ownerLogin": "TestOwnerWithID_3515638",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3515638",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_3515638",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 7693306,
-      "publishDate": 1693028922159,
-      "publishDateString": "15:48, 26.08.2023",
-      "ownerId": 9951456,
-      "ownerLogin": "TestOwnerWithID_9951456",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9951456",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9951456",
-      "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
-      ]
-    },
-    {
-      "id": 7438850,
-      "publishDate": 1678671490415,
-      "publishDateString": "11:38, 13.03.2023",
-      "ownerId": 5343288,
-      "ownerLogin": "TestOwnerWithID_5343288",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5343288",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_5343288",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 8114209,
-      "publishDate": 1692991638928,
-      "publishDateString": "05:27, 26.08.2023",
-      "ownerId": 7008360,
-      "ownerLogin": "TestOwnerWithID_7008360",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7008360",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7008360",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 3293946,
-      "publishDate": 1683512035208,
-      "publishDateString": "12:13, 08.05.2023",
-      "ownerId": 9779140,
-      "ownerLogin": "TestOwnerWithID_9779140",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9779140",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9779140",
-      "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
-      ]
-    },
-    {
-      "id": 8943052,
-      "publishDate": 1682384715718,
-      "publishDateString": "11:011, 25.04.2023",
-      "ownerId": 4054345,
-      "ownerLogin": "TestOwnerWithID_4054345",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4054345",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4054345",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 7242109,
-      "publishDate": 1675278627429,
-      "publishDateString": "05:10, 02.02.2023",
-      "ownerId": 9979508,
-      "ownerLogin": "TestOwnerWithID_9979508",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9979508",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9979508",
-      "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
-      ]
-    },
-    {
-      "id": 1922883,
-      "publishDate": 1688129610595,
-      "publishDateString": "22:53, 30.06.2023",
-      "ownerId": 9774570,
-      "ownerLogin": "TestOwnerWithID_9774570",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9774570",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_9774570",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
-      ]
-    },
-    {
-      "id": 4350536,
-      "publishDate": 1685888335494,
-      "publishDateString": "00:18, 05.06.2023",
-      "ownerId": 6589683,
-      "ownerLogin": "TestOwnerWithID_6589683",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6589683",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_6589683",
-      "bulletinImages": [
-        "https://static.baza.farpost.ru/v/1510541224458_hugeBlock"
-      ]
-    },
-    {
-      "id": 6221966,
-      "publishDate": 1691033332683,
-      "publishDateString": "13:28, 03.08.2023",
-      "ownerId": 4559352,
-      "ownerLogin": "TestOwnerWithID_4559352",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4559352",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_4559352",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm"
-      ]
-    },
-    {
-      "id": 4303371,
-      "publishDate": 1689644719900,
-      "publishDateString": "11:45, 18.07.2023",
-      "ownerId": 7648336,
-      "ownerLogin": "TestOwnerWithID_7648336",
-      "bulletinSubject": "Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7648336",
-      "bulletinText": "Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_7648336",
-      "bulletinImages": [
-        "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm"
       ]
     }
   ],
-  "end-massive" : []
+  "work-massive": [],
+  "end-massive": []
 }

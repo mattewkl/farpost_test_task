@@ -7,6 +7,16 @@
   list-style: none;
 }
 
+.standart-textarea {
+  display: flex;
+  width: 80%;
+  align-self: start;
+}
+
+.standart-textarea_hidden {
+  display: none;
+}
+
 .no-button-styles {
   border: none;
   background: none;
@@ -96,6 +106,28 @@
   gap: 20px;
 }
 
+.cases-list li {
+  width: min-content;
+}
+
+.cases-list li:focus {
+  outline: 2px solid red;
+}
+
+.cases-list__textarea-label_hidden {
+  display: none;
+}
+
+.cases-list__textarea-label {
+  font-family: Arial;
+  font-size: smaller;
+  color: #4A4A4A;
+}
+
+.cases-list__textarea-label_invalid {
+  color: red;
+}
+
 .cases-list__item {
   display: grid;
   grid-template-areas: "top top" "text images";
@@ -104,6 +136,18 @@
   width: 1160px;
   box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.2509803922);
   border: 1px solid #DDDDDD;
+}
+
+.cases-list__item_approved {
+  box-shadow: 0px 1px 20px 0px rgba(136, 189, 53, 0.4392156863);
+}
+
+.cases-list__item_denied {
+  box-shadow: 0px 1px 20px 0px rgba(247, 136, 46, 0.4392156863);
+}
+
+.cases-list__item_escalated {
+  box-shadow: 0px 1px 20px 0px rgba(23, 100, 204, 0.4392156863);
 }
 
 .cases-list__item-top-info {

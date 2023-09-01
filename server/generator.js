@@ -8,8 +8,8 @@ function generateRandomDate(from, to) {
 
 const imagesMassive = [
     "https://static.baza.farpost.ru/v/1510541224458_hugeBlock",
-    "https://ru.freepik.com/free-photo/coffee-beans-background_4042594.htm",
-    "https://ru.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_999879.htm",
+    "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg",
+    "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg",
 ]
 
 function getRandomImage() {
