@@ -1,11 +1,8 @@
-let iteration = 1
-
 class Api {
     constructor(optionsObject) {
         this._baseUrl = optionsObject.baseUrl;
         this._headers = {'Content-Type': 'application/json'}
     }
-
 
     _checkValidResponce(res) {
         if (res.ok) {
@@ -58,7 +55,6 @@ class Api {
     }
 }
 
-
 const API_OPTIONS = {
     baseUrl: 'http://localhost:3000'
 }
@@ -105,6 +101,11 @@ function deleteAllFromList() {
 
 }
 
+function focusOnFirst() {
+    const CASES_ELEMENTS_LIST = CASES_LIST.querySelectorAll('.created-by-js-node')
+    CASES_ELEMENTS_LIST[0].focus()
+}
+
 function getObjFromCase(CASE) {
     const processedObj = {}
     const CASE_ARTICLE = CASE.querySelector('.cases-list__item')
@@ -124,7 +125,10 @@ function getObjFromCase(CASE) {
     processedObj.bulletinSubject = CASE_TITLE_ELEMENT.textContent
     processedObj.bulletinText = CASE_TEXT_ELEMENT.textContent
     processedObj.bulletinImages = [CASE_IMG.src]
-    processedObj.status = CASE_ARTICLE.ariaLabel
+    if (CASE_ARTICLE.ariaLabel) {
+        processedObj.status = CASE_ARTICLE.ariaLabel
+    }
+    else {return}
     if (processedObj.status === 'denied' && CASE_TEXTAREA.value === "") {
         manipulateTextareaLabel(CASE_TEXTAREA_LABEL,true,'При отклонении объявления необходимо указать причину')
         CASE_TEXTAREA.focus()
@@ -145,19 +149,21 @@ function getObjFromCase(CASE) {
 
 function createEndPackage() {
     const CASES_ELEMENTS_LIST = CASES_LIST.querySelectorAll('.created-by-js-node')
-    let package = []
+    let objPackage = []
     for (CASE of CASES_ELEMENTS_LIST) {
         const CASE_PROCESSED_OBJ = getObjFromCase(CASE)
         if (CASE_PROCESSED_OBJ) {
-            package.push(CASE_PROCESSED_OBJ)
+            objPackage.push(CASE_PROCESSED_OBJ)
         }
         else {
-            return
+            break
         }
-
     }
-    console.log(package)
-    return package
+    if (objPackage.length < 10) {
+        return null
+    }
+    console.log(objPackage)
+    return objPackage
 
 }
 
@@ -203,6 +209,7 @@ function addCaseToList(CASE, tabindex) {
     LI_COPY.addEventListener('keydown', (event) => {
         if (event.shiftKey && event.code === 'Enter') {
             event.stopPropagation()
+            event.preventDefault()
             CASE.ariaLabel = 'escalated'
             CASE.classList.add('cases-list__item_escalated')
             manipulateTextareaLabel(CASE_TEXTAREA_LABEL,false, 'Если нужно - оставьте комментарий.')
@@ -245,7 +252,10 @@ function get10ObjFromAPI(page) {
             }
         })
         .catch(err => console.log(err))
-        .finally(document.removeEventListener('keydown', loadPackage))
+        .finally(() => {
+            document.removeEventListener('keydown', loadPackage);
+            focusOnFirst()
+        })
 }
 
 function loadPackage(event) {
@@ -257,13 +267,22 @@ function loadPackage(event) {
 document.addEventListener('keydown', loadPackage)
 
 
+document.addEventListener('keydown', (event) => {
+    if (event.key === 'F8') {
+        event.preventDefault()
+        console.log(createEndPackage())
+    }
+})
 
 document.addEventListener('keydown', (event) => {
     if (event.key === 'F7') {
         event.preventDefault()
         if (createEndPackage()) {
-            API.putPackage({pack: createEndPackage()}).then(res => console.log(res)).catch(err => console.error(err)).finally(() => {
-                iteration++;
+            API.putPackage({pack: createEndPackage()})
+                .then(res => console.log(res))
+                .catch(err => console.error(err))
+                .finally(() => {
+                iteration++
                 deleteAllFromList()
                 API.deleteObj(1).then()
                 get10ObjFromAPI(iteration)
