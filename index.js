@@ -20,9 +20,9 @@ class Api {
             .then(this._checkValidResponce)
     }
 
-    getData() {
-        return fetch(`${this._baseUrl}/start-massive`, {}).then(this._checkValidResponce)
-    }
+    // getData() {
+    //     return fetch(`${this._baseUrl}/start-massive`, {}).then(this._checkValidResponce)
+    // }
 
     putPackage(objPackage) {
         return fetch(`${this._baseUrl}/end-massive`,{
@@ -37,28 +37,30 @@ class Api {
     }
 
 
-    addCardData(dataObj) {
-        return fetch(`${this._baseUrl}/work-massive`, {
-            method: 'POST',
-            body: JSON.stringify({
-                id: dataObj.id,
-                publishDate: dataObj.publishDate,
-                publishDateString: dataObj.publishDateString,
-                ownerId: dataObj.ownerId,
-                ownerLogin: dataObj.ownerLogin,
-                bulletinSubject: dataObj.bulletinSubject,
-                bulletinText: dataObj.bulletinText,
-                bulletinImages: dataObj.bulletinImages
-            })
-        })
-            .then(this._checkValidResponce)
-    }
+    // addCardData(dataObj) {
+    //     return fetch(`${this._baseUrl}/work-massive`, {
+    //         method: 'POST',
+    //         body: JSON.stringify({
+    //             id: dataObj.id,
+    //             publishDate: dataObj.publishDate,
+    //             publishDateString: dataObj.publishDateString,
+    //             ownerId: dataObj.ownerId,
+    //             ownerLogin: dataObj.ownerLogin,
+    //             bulletinSubject: dataObj.bulletinSubject,
+    //             bulletinText: dataObj.bulletinText,
+    //             bulletinImages: dataObj.bulletinImages
+    //         })
+    //     })
+    //         .then(this._checkValidResponce)
+    // }
 }
+
+
+let iteration = 1
 
 const API_OPTIONS = {
     baseUrl: 'http://localhost:3000'
 }
-
 const API = new Api(API_OPTIONS)
 const CASE_TEMPLATE_CONTENT = document.querySelector('.list-item-template').content.querySelector('.cases-list__item')
 const CASES_LIST = document.querySelector('.cases-list')
@@ -98,7 +100,6 @@ function deleteAllFromList() {
     for (CASE of CASES_ELEMENTS_LIST) {
         CASE.remove()
     }
-
 }
 
 function focusOnFirst() {
@@ -145,7 +146,6 @@ function getObjFromCase(CASE) {
     return(processedObj)
 
 }
-
 
 function createEndPackage() {
     const CASES_ELEMENTS_LIST = CASES_LIST.querySelectorAll('.created-by-js-node')
@@ -257,7 +257,7 @@ function get10ObjFromAPI(page) {
             focusOnFirst()
         })
 }
-
+//а надо ли в промисол?
 function loadPackage(event) {
     if (event.key === 'Enter') {
         get10ObjFromAPI(1)
