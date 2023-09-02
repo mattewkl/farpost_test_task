@@ -17,15 +17,11 @@
   display: none;
 }
 
-.no-button-styles {
-  border: none;
-  background: none;
-}
-
-.no-mp-border-box {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+.standart-main {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  padding-top: 20px;
 }
 
 .standart-body {
@@ -36,6 +32,17 @@
   flex-direction: column;
   background-color: white;
   z-index: 0;
+}
+
+.no-button-styles {
+  border: none;
+  background: none;
+}
+
+.no-mp-border-box {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .info-aside {
@@ -91,13 +98,6 @@
 
 .info-aside__text_point-blue::before {
   background-color: #1764CC;
-}
-
-.standart-main {
-  display: flex;
-  flex-direction: column;
-  padding-left: 20px;
-  padding-top: 20px;
 }
 
 .cases-list {
