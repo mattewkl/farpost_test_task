@@ -167,7 +167,6 @@ function createEndPackage() {
 
 }
 
-
 function addCaseToList(CASE, tabindex) {
     const LI_COPY = CASES_LIST.querySelector('.cases-list__li-selector').cloneNode(false)
     LI_COPY.classList.remove('cases-list__li-selector')
@@ -181,6 +180,7 @@ function addCaseToList(CASE, tabindex) {
         if (event.code === 'Space') {
             event.preventDefault()
             CASE_TEXTAREA.classList.add('standart-textarea_hidden')
+            CASE_TEXTAREA.removeEventListener('focusout', changeLabelColorToDefault)
             CASE.ariaLabel = 'approved'
             CASE.classList.add('cases-list__item_approved')
             if (event.currentTarget.nextSibling) {
@@ -188,11 +188,13 @@ function addCaseToList(CASE, tabindex) {
             }
         }
     })
+
     LI_COPY.addEventListener('keydown', (event) => {
         if (event.code === 'Delete') {
             event.preventDefault()
             CASE.ariaLabel = 'denied'
             CASE.classList.add('cases-list__item_denied')
+            CASE_TEXTAREA.addEventListener('focusout', changeLabelColorToDefault)
             manipulateTextareaLabel(CASE_TEXTAREA_LABEL,false,'Укажите причину отказа.')
             CASE_TEXTAREA.classList.remove('standart-textarea_hidden')
             if (!CASE_TEXTAREA.value) {
@@ -206,12 +208,14 @@ function addCaseToList(CASE, tabindex) {
 
         }
     })
+
     LI_COPY.addEventListener('keydown', (event) => {
         if (event.shiftKey && event.code === 'Enter') {
             event.stopPropagation()
             event.preventDefault()
             CASE.ariaLabel = 'escalated'
             CASE.classList.add('cases-list__item_escalated')
+            CASE_TEXTAREA.removeEventListener('focusout', changeLabelColorToDefault)
             manipulateTextareaLabel(CASE_TEXTAREA_LABEL,false, 'Если нужно - оставьте комментарий.')
             CASE_TEXTAREA.classList.remove('standart-textarea_hidden')
             if (!CASE_TEXTAREA.value) {
@@ -223,6 +227,7 @@ function addCaseToList(CASE, tabindex) {
             }
         }
     })
+
     LI_COPY.addEventListener('mousedown', (event) => {
         event.currentTarget.focus()
         event.preventDefault()
@@ -264,15 +269,15 @@ function loadPackage(event) {
     }
 }
 
-document.addEventListener('keydown', loadPackage)
-
-
-document.addEventListener('keydown', (event) => {
-    if (event.key === 'F8') {
-        event.preventDefault()
-        console.log(createEndPackage())
+function changeLabelColorToDefault(event) {
+    if (event.currentTarget.value !== "") {
+        const LABEL = event.currentTarget.parentNode.querySelector('.cases-list__textarea-label')
+        LABEL.classList.remove('cases-list__textarea-label_invalid')
     }
-})
+
+}
+
+document.addEventListener('keydown', loadPackage)
 
 document.addEventListener('keydown', (event) => {
     if (event.key === 'F7') {
@@ -292,3 +297,20 @@ document.addEventListener('keydown', (event) => {
         console.log('шляпа')
     }}
 )
+
+
+// document.addEventListener('keydown', (event) => {
+//     if (event.key === 'F8') {
+//         event.preventDefault()
+//         const TEXTAREA_MASSIVE = document.querySelectorAll('.standart-textarea')
+//         TEXTAREA_MASSIVE[0].addEventListener('focusout',changeLabelColorToDefault)
+//     }
+// })
+//
+// document.addEventListener('keydown', (event) => {
+//     if (event.key === 'F9') {
+//         event.preventDefault()
+//         const TEXTAREA_MASSIVE = document.querySelectorAll('.standart-textarea')
+//         console.log(TEXTAREA_MASSIVE[0])
+//         TEXTAREA_MASSIVE[0].removeEventListener('focusout', changeLabelColorToDefault)
+//     }})
