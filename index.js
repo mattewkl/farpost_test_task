@@ -20,10 +20,6 @@ class Api {
             .then(this._checkValidResponce)
     }
 
-    // getData() {
-    //     return fetch(`${this._baseUrl}/start-massive`, {}).then(this._checkValidResponce)
-    // }
-
     putPackage(objPackage) {
         return fetch(`${this._baseUrl}/end-massive`,{
             method: 'POST',
@@ -36,28 +32,9 @@ class Api {
         return fetch(`${this._baseUrl}/start-massive?_page=${page}&_limit=10`, {}).then(this._checkValidResponce)
     }
 
-
-    // addCardData(dataObj) {
-    //     return fetch(`${this._baseUrl}/work-massive`, {
-    //         method: 'POST',
-    //         body: JSON.stringify({
-    //             id: dataObj.id,
-    //             publishDate: dataObj.publishDate,
-    //             publishDateString: dataObj.publishDateString,
-    //             ownerId: dataObj.ownerId,
-    //             ownerLogin: dataObj.ownerLogin,
-    //             bulletinSubject: dataObj.bulletinSubject,
-    //             bulletinText: dataObj.bulletinText,
-    //             bulletinImages: dataObj.bulletinImages
-    //         })
-    //     })
-    //         .then(this._checkValidResponce)
-    // }
 }
 
-
 let iteration = 1
-
 const API_OPTIONS = {
     baseUrl: 'http://localhost:3000'
 }
@@ -159,7 +136,6 @@ function getObjFromCase(CASE) {
     if (processedObj.status === 'escalated' && CASE_TEXTAREA.value) {
         processedObj.comment = CASE_TEXTAREA.value
     }
-    console.log(processedObj)
     return(processedObj)
 
 }
@@ -179,7 +155,6 @@ function createEndPackage() {
     if (objPackage.length < 10) {
         return null
     }
-    console.log(objPackage)
     return objPackage
 
 }
@@ -274,13 +249,13 @@ function get10ObjFromAPI(page) {
                 tabindex += 1
             }
         })
-        .catch(err => console.log(err))
+        .catch(err => console.error(err))
         .finally(() => {
             document.removeEventListener('keydown', loadPackage);
             focusOnFirst()
         })
 }
-//а надо ли в промисол?
+
 function loadPackage(event) {
     if (event.key === 'Enter') {
         get10ObjFromAPI(1)
@@ -312,23 +287,5 @@ document.addEventListener('keydown', (event) => {
                 }
             )
         }
-        console.log('шляпа')
     }}
 )
-
-
-// document.addEventListener('keydown', (event) => {
-//     if (event.key === 'F8') {
-//         event.preventDefault()
-//         const TEXTAREA_MASSIVE = document.querySelectorAll('.standart-textarea')
-//         TEXTAREA_MASSIVE[0].addEventListener('focusout',changeLabelColorToDefault)
-//     }
-// })
-//
-// document.addEventListener('keydown', (event) => {
-//     if (event.key === 'F9') {
-//         event.preventDefault()
-//         const TEXTAREA_MASSIVE = document.querySelectorAll('.standart-textarea')
-//         console.log(TEXTAREA_MASSIVE[0])
-//         TEXTAREA_MASSIVE[0].removeEventListener('focusout', changeLabelColorToDefault)
-//     }})
