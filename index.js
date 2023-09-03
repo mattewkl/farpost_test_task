@@ -72,7 +72,14 @@ function createCaseElement(dataObj) {
     const CASE_USER_ID_ELEMENT = CASE_COPY.querySelector('.cases-list__user-id')
     const CASE_TITLE_ELEMENT = CASE_COPY.querySelector('.cases-list__main-info-title')
     const CASE_TEXT_ELEMENT = CASE_COPY.querySelector('.cases-list__main-info-text')
-    const CASE_IMG = CASE_COPY.querySelector('.cases-list__item-img')
+    const CASE_FIGURE_ELEMENT = CASE_COPY.querySelector('.cases-list__item-figure')
+    for (imageDeclaration of dataObj.bulletinImages) {
+            const IMG = document.createElement('img')
+            IMG.src = imageDeclaration.src
+            IMG.alt = imageDeclaration.alt
+            IMG.classList.add('cases-list__item-img')
+            CASE_FIGURE_ELEMENT.appendChild(IMG)
+        }
     CASE_COPY.id = dataObj.id
     CASE_TIME_ELEMENT.id = dataObj.publishDate
     CASE_ID_ELEMENT.textContent = dataObj.id
@@ -80,7 +87,6 @@ function createCaseElement(dataObj) {
     CASE_USER_ID_ELEMENT.textContent = dataObj.ownerId
     CASE_TITLE_ELEMENT.textContent = dataObj.bulletinSubject
     CASE_TEXT_ELEMENT.textContent = dataObj.bulletinText
-    CASE_IMG.src = dataObj.bulletinImages[0]
     return CASE_COPY
 }
 
@@ -115,9 +121,16 @@ function getObjFromCase(CASE) {
     const CASE_USER_ID_ELEMENT = CASE.querySelector('.cases-list__user-id')
     const CASE_TITLE_ELEMENT = CASE.querySelector('.cases-list__main-info-title')
     const CASE_TEXT_ELEMENT = CASE.querySelector('.cases-list__main-info-text')
-    const CASE_IMG = CASE.querySelector('.cases-list__item-img')
     const CASE_TEXTAREA = CASE.querySelector('.standart-textarea')
     const CASE_TEXTAREA_LABEL = CASE.querySelector('.cases-list__textarea-label')
+    const CASE_IMG_ARRAY = CASE.querySelector('.cases-list__item-figure').querySelectorAll('.cases-list__item-img')
+    let srcArray = []
+    for (imgElement of CASE_IMG_ARRAY) {
+        srcArray.push({
+            src: imgElement.src,
+            alt: imgElement.alt
+        })
+    }
     processedObj.id = parseInt(CASE_ID_ELEMENT.textContent)
     processedObj.publishDate = CASE_TIME_ELEMENT.id
     processedObj.publishDateString = CASE_TIME_ELEMENT.textContent.substring(4)
@@ -125,11 +138,15 @@ function getObjFromCase(CASE) {
     processedObj.ownerLogin = `TestOwnerWithID_${processedObj.ownerId}`
     processedObj.bulletinSubject = CASE_TITLE_ELEMENT.textContent
     processedObj.bulletinText = CASE_TEXT_ELEMENT.textContent
-    processedObj.bulletinImages = [CASE_IMG.src]
+    processedObj.bulletinImages = srcArray
     if (CASE_ARTICLE.ariaLabel) {
         processedObj.status = CASE_ARTICLE.ariaLabel
     }
-    else {return}
+    else {
+        CASE_TEXTAREA_LABEL.classList.remove('case-item__textarea-label_hidden')
+        manipulateTextareaLabel(CASE_TEXTAREA_LABEL,true, 'Необходимо выбрать действие с помощью горячих клавиш')
+        CASE.focus()
+        return}
     if (processedObj.status === 'denied' && CASE_TEXTAREA.value === "") {
         manipulateTextareaLabel(CASE_TEXTAREA_LABEL,true,'При отклонении объявления необходимо указать причину')
         CASE_TEXTAREA.focus()
@@ -179,6 +196,7 @@ function addCaseToList(CASE, tabindex) {
     LI_COPY.addEventListener('keydown', (event) => {
         if (event.code === 'Space') {
             event.preventDefault()
+            CASE_TEXTAREA_LABEL.classList.add('cases-list__textarea-label_hidden')
             CASE_TEXTAREA.classList.add('standart-textarea_hidden')
             CASE_TEXTAREA.removeEventListener('focusout', changeLabelColorToDefault)
             CASE.ariaLabel = 'approved'

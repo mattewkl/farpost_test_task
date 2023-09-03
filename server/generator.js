@@ -7,10 +7,12 @@ function generateRandomDate(from, to) {
 
 
 const imagesMassive = [
-    "https://static.baza.farpost.ru/v/1510541224458_hugeBlock",
-    "https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg",
-    "https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg",
-]
+    {src: "https://static.baza.farpost.ru/v/1510541224458_hugeBlock", alt: 'Медитирующий молодой человек - Лого Фарпост'},
+    {src: 'https://img.freepik.com/free-photo/coffee-beans-background_23-2148093889.jpg', alt: 'Кофе высыпается из банки'},
+    {src: '"https://img.freepik.com/free-photo/hands-filling-a-cup-of-coffee-with-milk_1286-198.jpg"', alt: 'Процесс вливания латте-арта'},
+    {src: "https://img.freepik.com/free-vector/letter-k-logo-with-abstract-shapes_1017-8744.jpg", alt: 'Лого с буквой K'},
+    {src: "https://img.freepik.com/free-vector/spring-rabbit-with-bow_18591-76711.jpg", alt: 'Милый кролик'}]
+
 
 function getRandomImage() {
     return imagesMassive[Math.floor(Math.random() * imagesMassive.length)]
@@ -42,6 +44,14 @@ console.log(generateID())
 function generateDBObject() {
     const RAND_DATE = generateRandomDate(new Date(2023, 0, 31), new Date())
     const OWNER_ID = generateID()
+    let imageMassive = []
+    if ((Math.floor(Math.random()* 1000) < 500)) {
+        imageMassive.push(getRandomImage())
+        imageMassive.push(getRandomImage())
+    }
+    else {
+        imageMassive.push(getRandomImage())
+    }
     return JSON.stringify({
         id: generateID(),
         publishDate: getTimeStamp(RAND_DATE),
@@ -50,8 +60,7 @@ function generateDBObject() {
         ownerLogin: `TestOwnerWithID_${OWNER_ID}`,
         bulletinSubject: `Test Title for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_${OWNER_ID}`,
         bulletinText: `Test Text for TEST_FARPOST_TASK_PURPOUSE from TestOwnerWithID_${OWNER_ID}`,
-        bulletinImages: [getRandomImage()]
-
+        bulletinImages: imageMassive
     })
 }
 function generate100DBOBJECTS() {

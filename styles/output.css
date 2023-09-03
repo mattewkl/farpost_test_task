@@ -111,7 +111,7 @@
 }
 
 .cases-list li:focus {
-  outline: 2px solid red;
+  outline: 1px solid #F7882E;
 }
 
 .cases-list__textarea-label_hidden {
@@ -220,6 +220,7 @@
 .cases-list__item-figure {
   display: flex;
   flex-direction: column;
+  gap: 16px;
   padding-left: 16px;
   border-left: 1px solid #E4E4E4;
   margin-top: 44px;
