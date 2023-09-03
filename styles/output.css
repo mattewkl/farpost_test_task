@@ -232,4 +232,20 @@
   object-fit: contain;
 }
 
+.standart-main__disclaimer {
+  width: 80%;
+  font-family: Arial;
+  display: flex;
+  font-size: 40px;
+  font-weight: bold;
+  color: #4A4A4A;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.standart-main__disclaimer_hidden {
+  display: none;
+}
+
 /*# sourceMappingURL=output.css.map */

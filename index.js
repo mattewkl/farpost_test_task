@@ -87,7 +87,16 @@ function deleteAllFromList() {
 
 function focusOnFirst() {
     const CASES_ELEMENTS_LIST = CASES_LIST.querySelectorAll('.created-by-js-node')
-    CASES_ELEMENTS_LIST[0].focus()
+    const DISCLAMER = document.querySelector('.standart-main__disclaimer')
+    if (CASES_ELEMENTS_LIST[0]) {
+        CASES_ELEMENTS_LIST[0].focus()
+        DISCLAMER.classList.add('standart-main__disclaimer_hidden')
+    }
+    else {
+        DISCLAMER.classList.remove('standart-main__disclaimer_hidden')
+        DISCLAMER.textContent = "Вы все сделали. Круто!"
+    }
+
 }
 
 function getObjFromCase(CASE) {
@@ -123,7 +132,7 @@ function getObjFromCase(CASE) {
         CASE_TEXTAREA_LABEL.classList.remove('case-item__textarea-label_hidden')
         manipulateTextareaLabel(CASE_TEXTAREA_LABEL,true, 'Необходимо выбрать действие с помощью горячих клавиш')
         CASE.focus()
-        return}
+        return null }
     if (processedObj.status === 'denied' && CASE_TEXTAREA.value === "") {
         manipulateTextareaLabel(CASE_TEXTAREA_LABEL,true,'При отклонении объявления необходимо указать причину')
         CASE_TEXTAREA.focus()
@@ -145,14 +154,9 @@ function createEndPackage() {
     let objPackage = []
     for (CASE of CASES_ELEMENTS_LIST) {
         const CASE_PROCESSED_OBJ = getObjFromCase(CASE)
-        if (CASE_PROCESSED_OBJ) {
             objPackage.push(CASE_PROCESSED_OBJ)
-        }
-        else {
-            break
-        }
     }
-    if (objPackage.length < 10) {
+    if (objPackage.includes(null)) {
         return null
     }
     return objPackage
