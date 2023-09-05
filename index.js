@@ -246,6 +246,7 @@ function addCaseToList(CASE, tabindex) {
 function get10ObjFromAPI(page) {
     Promise.all([API.getTenObj(page)])
         .then(res => {
+            console.log(res)
             const MASSIVE = res[0]
             let tabindex = 0
             for (obj of MASSIVE) {
